@@ -7,7 +7,7 @@ function GithubIcon({ className }) {
 				console.log('heloo');
 				window
 					.open(
-						'https://github.com/ashirbad29/Sorting-Algorithm-Visualizer',
+						'https://github.com/akash803/Sorting_algo_visualizer',
 						'_blank'
 					)
 					.focus();
