@@ -1,6 +1,6 @@
 # Sorting Algorithm visualizer 🔥
 
-A tool to visualize sorting algorithms built using **ReactJS** <br/>
+A tool to visualize various sorting algorithms built using **ReactJS** <br/>
 Website is live [here](https://sortingvisualizerx.netlify.app/)
 
 ## Features
